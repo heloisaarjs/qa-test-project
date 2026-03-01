@@ -23,3 +23,10 @@ Testes funcionais manuais na funcionalidade de:
 - Jira (bug report)
 
 Este projeto foi desenvolvido para prática e aprimoramento em QA.
+
+## Estrutura do Projeto
+
+- user-stories.md → Histórias e critérios de aceitação
+- test-case.md → Casos de teste funcionais e negativos
+- regression-test.md → Teste de regressão após correção de bug
+- bug-report.md → Exemplo de abertura de bug
